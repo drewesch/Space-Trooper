@@ -29,7 +29,7 @@ public class Duplicate_Cubes : MonoBehaviour
     void Update()
     {
 
-        if (Input.GetKeyDown("c"))
+        if (Input.GetKeyDown("o"))
         {
             Debug.Log("Duplicated");
 
