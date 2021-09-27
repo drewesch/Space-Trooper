@@ -8,7 +8,7 @@ public class MoveBlock : MonoBehaviour
     protected Transform myTransform;
     void Start()
     {
-        Debug.Log("Deez nuts!!!");
+        Debug.Log("Tada");
     }
 
     // Update is called once per frame
