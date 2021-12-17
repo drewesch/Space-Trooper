@@ -1,5 +1,6 @@
 # CST-320
 GCU - Human Computer Interaction - Team 9
+
 Authors: Andrew Esch, Diego Guerra, and Ryan Scott
 
 Statement of Own Work: We certify that this program is our own work and ideas, verifying that no help was provided. All sources for this project are licensed under the Creative Commons or the Unity Asset store. We are aware that the incorporation of material from other's work without acknowledgement is treated as plagiarism.
