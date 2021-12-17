@@ -7,6 +7,7 @@ Statement of Own Work: We certify that this program is our own work and ideas, v
 
 ## Space Trooper Project
 Goal: To imagine what it would be like for an astronaut to live and complete tasks in outer space for long periods of time.
+
 Demo Video: https://www.loom.com/share/989a0b55662a4fed9ec819b9341064b1
 
 ## Build Instructions
